@@ -1,3 +1,7 @@
+//Nama          : Rafi Kurnia Ilahi
+//NIM           : 21076066
+//Mata Kuliah   : Pemograman Bergerak
+
 package src
 
 // Contoh penggunaan Enum class
